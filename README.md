@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajakta25mhetre&label=Profile%20views&color=0e75b6&style=flat" alt="prajakta25mhetre" /> </p>
 
-- 🌱 I’m currently learning **Java,Python**
+- 🌱 I’m currently learning **Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/prajakta25mhetre](https://github.com/prajakta25mhetre)
 
